@@ -18,15 +18,6 @@
     padding: 0px 5px;
 }
 
-button{
-      outline: none !important;
-    }
-
-button:focus,
-button:active{
-      outline: none !important;
-    }
-
 a {
     text-decoration: none;
 }
