@@ -18,6 +18,10 @@
     padding: 0px 5px;
 }
 
+button{
+      outline: none;
+    }
+
 button:focus {
       outline: none;
     }
