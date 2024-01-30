@@ -19,10 +19,10 @@
 }
 
 .btn-social{
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
     padding: 15px;
-    border-radius: 50%;
+    border-radius: 25px;
 }
 
 a {
