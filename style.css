@@ -7,6 +7,11 @@
     padding: 0;
 }
 
+badg {
+    border-radius: 25px;
+    background-color: #4f8;
+    color:#fff;
+}
 
 a {
     text-decoration: none;
